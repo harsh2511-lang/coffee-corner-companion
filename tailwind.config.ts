@@ -51,13 +51,14 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        coffee: {
-          brown: "hsl(var(--coffee-brown))",
-          cream: "hsl(var(--coffee-cream))",
-          gold: "hsl(var(--coffee-gold))",
-          dark: "hsl(var(--coffee-dark))",
-          light: "hsl(var(--coffee-light))",
-          warm: "hsl(var(--coffee-warm))",
+        tech: {
+          "deep-blue": "hsl(var(--tech-deep-blue))",
+          charcoal: "hsl(var(--tech-charcoal))",
+          teal: "hsl(var(--tech-teal))",
+          "teal-glow": "hsl(var(--tech-teal-glow))",
+          dark: "hsl(var(--tech-dark))",
+          light: "hsl(var(--tech-light))",
+          grid: "hsl(var(--tech-grid))",
         },
       },
       borderRadius: {
